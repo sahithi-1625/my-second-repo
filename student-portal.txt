@@ -1,0 +1,5 @@
+student portal demo
+->student attendence
+->student semister result
+->student profile
+->student Fee
